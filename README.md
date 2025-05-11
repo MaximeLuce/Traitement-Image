@@ -18,11 +18,11 @@ Ce devoir s’inscrit dans le prolongement du TD#4, où nous avons étudié le c
 
 ## Organisation du dépot
 
-- version_finale.ipynb qui contient le fichier Jupyter
+- version_finale.ipynb qui contient le fichier Jupyter ;
+- la version html, pdf et pdf compressé de ce fichier ;
 - le dossier "Images_Non_Compresses" qui contient les images utilisées pour les tests avant compression ;
 - le dossier "figures" qui provient du sujet de TD ;
 - le dossier "img_notebook" qui contient les graphiques et images utilisées dans le notebook ;
-- le dossier "old" qui archive certains fichiers ou versions ;
 - les images (compressées) utilisées pour les tests dans le répertoire racine (par souci de simplicité d'utilisation dans le fichier jupyter)
 
 ## License
